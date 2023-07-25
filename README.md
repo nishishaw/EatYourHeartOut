@@ -1,3 +1,4 @@
+**Project Summary**
 
 A Cloud kitchen, also known as a ghost kitchen, virtual kitchen where food is prepared and cooked in a professional kitchen space without a traditional brick-and-mortar restaurant. Instead of serving dine-in customers, cloud kitchens focus solely on fulfilling delivery or takeout orders. By designing an application and service portal for the users of Eat Your Heart Out, this will help these small businesses like them focus on preparing food and stressing less on managing their ordering system flow.
 
